@@ -1,1 +1,1 @@
-# Linked_list_in_C
+# data_structures_studying
